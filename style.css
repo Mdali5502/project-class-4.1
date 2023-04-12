@@ -1,0 +1,161 @@
+body{
+    margin: 0px;
+    background-color: #d4d4d6;
+}
+
+
+
+.header{
+    background-image: url("images/hill.jpg");
+    width: 80%;
+    height: 400px;
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 40px;
+    
+
+}
+.header-write{
+    width: 40%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.header-write h1{
+    margin-top: 150px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 15px;
+
+}
+.header-write p{
+    font-family: sans-serif;
+    margin: 0px;
+   
+
+}
+.btn{
+    cursor: pointer;
+    border: 1px solid #60bdfc;
+    background-color: transparent;
+    height: 35px;
+    width: 100px;
+    color: #e8e9ee;
+    font-size: 1.em;
+    box-shadow: 0 6px 6px rgba(22, 22, 22, 0.6);
+    margin-top: 20px;
+}
+/*kithen part start from here*/
+.kithen{
+    width: 80%;
+    margin: auto;
+    margin: auto;
+    height: 310px;
+    display: flex;
+    margin-bottom: 50px;
+    background-color: #f2f3fa;
+
+}
+.text-part{
+    width: 50%;
+    font-family: tahoma;
+
+}
+.image-part{
+    width: 50%;
+}
+.text-part h3{
+    font-family: tahoma;
+    font-size: 20px;
+    padding-left: 50px;
+}
+.text-part p{
+    font-family: tahoma;
+    text-align: justify;
+    
+    padding-left: 50px;
+}
+.image-part img{
+    padding-left: 30px;
+}
+/*kichen part close from here*/
+
+
+/*cofee part start from here*/
+.coffee{ width: 80%;
+    margin: auto;
+    margin: auto;
+    height: 320px;
+    display: flex;
+    margin-bottom: 50px;
+    background-color: #fcfcfd;
+    }
+.image-part1{
+    width: 50%;
+
+}
+
+
+.text-part2{
+    width: 50%;
+    padding-left: 30px;
+    padding-right: 20px;
+
+
+}
+.image-part1 img{
+    width: 400px;
+    height: 300px;
+    padding-left: 50px;
+}
+.text-part2 h3{
+    font-family: tahoma;
+    font-size: 20px;
+
+}
+.text-part2 p{
+    font-family: tahoma;
+    text-align: justify;
+    padding-right: 30PX;
+}
+.footer{
+    background-image: url("images/scenary.jpg");
+    width: 80%;
+    height: 340px;
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    
+
+}
+ .header-write1{
+   width: 40%;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ .header-write1 h1{
+    color: #0a31f7;
+    padding-left: 100px;
+ }
+ .header-write1 p{
+    color: #ff0040;
+ }
+.btn{
+    margin-left: 150px;
+}
+.adress-bar{
+    width: 80%;
+   margin-left: auto;
+    margin-right: auto;
+    background-color: #ececf0;
+    height: 150px;
+    margin-bottom: 20px;
+}
